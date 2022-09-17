@@ -11,4 +11,7 @@
   .out-phone{
     display: none;
   }
+  .question-list{
+    padding: 0 10px;
+  }
 }
