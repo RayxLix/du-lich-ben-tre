@@ -14,4 +14,8 @@
   .question-list{
     padding: 0 10px;
   }
+  .nav-header li{
+    width: unset;
+    padding: 0 10px;
+  }
 }
