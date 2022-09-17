@@ -20,12 +20,17 @@ main{
 .nav-header{
   display: flex;
   justify-content: center;
+  height: 60px;
+
 }
 .nav-header li{
   width:250px;
   display: flex;
   justify-content: center;
-  height: 100%;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 60px;
+  color:#FA8072;
 }
 .nav-header li:hover{
   background-color: rgba(204, 204, 204, 0.5);
@@ -295,5 +300,4 @@ padding: 0 80px;
 .container-contact{
   max-width: 720px;
   margin: auto;
-
 }
